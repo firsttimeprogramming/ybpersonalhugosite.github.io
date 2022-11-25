@@ -2,12 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://ybpersonalhugosite.github.io/posts/about/</loc>
+    <lastmod>2022-11-24T23:00:52-06:00</lastmod>
+  </url><url>
+    <loc>https://ybpersonalhugosite.github.io/</loc>
+    <lastmod>2022-11-24T23:00:52-06:00</lastmod>
+  </url><url>
+    <loc>https://ybpersonalhugosite.github.io/posts/</loc>
+    <lastmod>2022-11-24T23:00:52-06:00</lastmod>
+  </url><url>
     <loc>https://ybpersonalhugosite.github.io/about/</loc>
     <lastmod>2022-11-24T22:40:27-06:00</lastmod>
   </url><url>
     <loc>https://ybpersonalhugosite.github.io/categories/</loc>
-  </url><url>
-    <loc>https://ybpersonalhugosite.github.io/</loc>
   </url><url>
     <loc>https://ybpersonalhugosite.github.io/tags/</loc>
   </url>
